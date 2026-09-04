@@ -24,4 +24,4 @@ cleanup() {
 }
 trap cleanup EXIT
 
-npm run dev --prefix client
+npm run start --prefix client
